@@ -1,5 +1,8 @@
 import { ReactComponent as GithubIcon } from 'assets/img/Github.svg';
+import { MoviePage } from 'types/movie';
 import './styles.css';
+
+
 
 function Navbar() {
     return (
